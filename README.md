@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # AngularForm
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.0.6.
@@ -153,3 +154,6 @@ For open source projects, say how it is licensed.
 ## Project status
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
 >>>>>>> b6d8836b059a7258c41328128b21709f1f8b6fb5
+=======
+# Angular-Template-Driven-Form
+>>>>>>> 06d0bdc5e82d2411e0a612c45d01c962ab7d3153
